@@ -1,7 +1,5 @@
 # Crystal Collector
 
-The player will have to guess the answer, just like in Word Guess. The player will guess with numbers instead of letters.
-
 There will be four crystals displayed as buttons on the page.
 
 The player will be shown a random number at the start of the game.
